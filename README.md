@@ -33,4 +33,22 @@ Enjoy!
 
 The solution involves a 3D printed flange (comprised of two sub-assemblies) and a 130lb magnet that holds the flange on the existing handwheel.
 
+## Instructions
+
+Print the two pieces of the flange (no supports necessary).
+
+![Flange](adapter_pieces.jpeg)
+
+Place the Magnet and the Screw in the large half of the flange.
+
+![Magnet](adapter_magnet.jpeg)
+
+Flip the large half of the flange over, attach the small half of the flange with the whiz nut.  Insert the two alignment pins (I had to trim mine to lenght).
+
+![Flange](adapter_flange.jpeg)
+
+Attach the sensor to the flange
+
+![Sensor](adapter_w_sensor.jpeg)
+
 

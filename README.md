@@ -45,7 +45,7 @@ Place the Magnet and the Screw in the large half of the flange.
 
 ![Magnet](adapter_magnet.jpeg)
 
-Flip the large half of the flange over, attach the small half of the flange with the whiz nut.  Insert the two alignment pins (I had to trim mine to lenght).
+Flip the large half of the flange over, attach the small half of the flange with the whiz nut.  Insert the two alignment pins (I used a couple of small nails that I cut to length).
 
 ![Flange](adapter_flange.jpeg)
 

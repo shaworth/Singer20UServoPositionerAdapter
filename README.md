@@ -12,8 +12,8 @@ Industrial sewing machines have historically used powerful AC motors spinning at
 For the rest of us, these beasts (I can barely lift the motor it is so heavy) are intimidating, noisy and difficult to control.
 
 Servos on the other hand work a lot like a domestic foot pedal.  Press the pedal and the motor spins.  However, if a needel positioner is installed two other features are available.  
- 1. The servo can be configured to always stop with the needle in the DOWN position.  This is handy for making tight turns.  Stop sewing, lift the foot, turn the material, lower the foot and continue sewing.  The needle keeps the work item aligned, and thread tension is preserved.  
- 2. The servo can be configured to bring the needle to the UP position by pressing on the heel of the foot pedal.  Stop the machine, press your heel against the bottom of the pedel and the needle lifts out of the way and into the thread release position.
+ 1. By default, if the sensor is attached, the servo is configured to always stop with the needle in the DOWN position.  This is handy for making tight turns.  Stop sewing, lift the foot, turn the material, lower the foot and continue sewing.  The needle keeps the work item aligned, and thread tension is preserved.  
+ 2. By default the servo is configured to bring the needle to the UP position by pressing on the heel of the foot pedal.  Stop the machine, press your heel against the bottom of the pedel and the needle lifts out of the way and into the thread release position.
 
 Both of these operations are highly repeatable and reliable.
 

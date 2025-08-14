@@ -1,4 +1,4 @@
-Bill of Materials
+# Bill of Materials
 
 | Description                | Qty | Cost, 2025 USD |
 |----------------------------|-----|----------------|

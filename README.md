@@ -4,7 +4,7 @@ Everything you need to retrofit your Singer 20u33 (and clones) servo upgrade wit
 ![Adapter](adapter-closeup.png)
 
 ## Overview
-The Singer 20U33 / 20-33 and clones are industrial sewing machines that utilize a hand clutch to disengate / engage the sewing mechanism from the bobbin winder.  This allows the operator to wind bobbins without running the sewing mechanism.  This style handwheel is also found in many vintage Singer sewing machines such as the 66/99, featherweight and others.  Although these domestic machines are not really canidates for attaching an industrial servo, the technique outlined here should work.  Afterall, someone is bound to find a ~reason~ excuse to retrofit one sooner or later.
+The Singer 20U33 / 20-33 and clones are industrial sewing machines that utilize a hand clutch to disengate / engage the sewing mechanism from the bobbin winder.  This allows the operator to wind bobbins without running the sewing mechanism.  However, servo needle position sensors expect the main shaft to have an exposed center tap to screw the adapter into.
 
 ### But 'Why?", Servos and Industrial Clutch Motors
 Industrial sewing machines have historically used powerful AC motors spinning at all times, and a foot clutch to engage the drive pully.  This arrangement is fantastic for highly skilled operators.  The amount of on-demand power is amazing, and with skill the speed can be controled with high precision.

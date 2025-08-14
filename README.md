@@ -1,5 +1,5 @@
 # Singer 20u33 Servo Position Sensor Adapter
-Everything you need to retrofit your Singer 20u33 (and clones) servo retrofit with a needle position sensor.
+Everything you need to retrofit your Singer 20u33 (and clones) servo upgrade with a needle position sensor.
 
 ![Adapter](adapter-closeup.png)
 

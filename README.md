@@ -51,4 +51,18 @@ Attach the sensor to the flange
 
 ![Sensor](adapter_w_sensor.jpeg)
 
+Finally, snap (you have no choice, it will SNAP!) the assembly onto the handwheel.
+
+## Calibrate the sensor position
+
+The goal here is to manually turn the machine until the needle is in the UP position.  Then, turn the flange (you have to hold the handwheel, the magnet has a strong grip) until the LED on the sensor activates.  
+
+If that doen't work (no LED for instance), sew a stitch, and adjust the flange position based on how far off it is.  Usually you can zero in with only a couple of tries.
+
+That's it.
+
+
+![Installed](adapter_installed.jpeg)
+
+
 

@@ -1,5 +1,7 @@
 # Singer 20u33 Servo Positioner Adapter
-Everything you need to retrofit your Singer 20u33 (and clones) with a servo needle positioner.
+Everything you need to retrofit your Singer 20u33 (and clones) servo retrofit with a needle position sensor.
+
+![Adapter](adapter-closeup.png)
 
 ## Overview
 The Singer 20U33 / 20-33 and clones are industrial sewing machines that utilize a hand clutch to disengate / engage the sewing mechanism from the bobbin winder.  This allows the operator to wind bobbins without running the sewing mechanism.  This style handwheel is also found in many vintage Singer sewing machines such as the 66/99, featherweight and others.  Although these domestic machines are not really canidates for attaching an industrial servo, the technique outlined here should work.  Afterall, someone is bound to find a ~reason~ excuse to retrofit one sooner or later.

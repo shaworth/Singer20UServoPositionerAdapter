@@ -17,9 +17,9 @@ Servos on the other hand work a lot like a domestic foot pedal.  Press the pedal
 
 Both of these operations are highly repeatable and reliable.
 
-If these two capabilites don't sound like a big deal you are either not the target audiance (you are likely a professional), or haven't used an industrial machine with a servo yet.  Because once you do, boy-howdy, there is no going back.
+If these two capabilites don't sound like a big deal you are either not the target audiance (you are likely a professional), or you haven't used an industrial machine with a servo yet.  Because once you do, boy-howdy, there is no going back.
 
-I researched off-the-shelf adapters to mounting a position sensor without any luck.  Which led me to design my own 3D printed solution and share it here.  
+I researched off-the-shelf adapters to mounting a position sensor without any luck.  I found a refrence to a discontinued adapter that cost about $90 USD.  But the reference was three years old and the part is unavailable.  So I designed my own 3D printed solution.  Sharing is caring, which brings us here.  Oh, look at the [BOM](bom.md), this adapter costs less than $5.00 USD (2025).
 
 Enjoy!
 

@@ -64,5 +64,5 @@ That's it.
 
 ![Installed](adapter_installed.jpeg)
 
-
+Released under the [Creative Commons non-commercial license](license.txt)
 

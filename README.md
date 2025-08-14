@@ -25,8 +25,10 @@ Enjoy!
 1. Inexpensive.
 2. Easy.
 3. Non-destructive.  Don't replace or modify any part of the machine.
-4. The position sensor expects a certain shape and size barrel to attach to.  The barrel must be mounted on the main shaft.  Make it happen.
+4. The position sensor expects a certain shape and size flange to attach to.  The flange must be mounted on and synchronized with the main shaft.
 
 ## Solution
 
-The solution
+The solution involves a 3D printed flange (comprised of two sub-assemblies) and a 130lb magnet that holds the flange on the existing handwheel.
+
+

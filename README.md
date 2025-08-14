@@ -1,0 +1,1 @@
+# Singer20UServoPositionerAdapter

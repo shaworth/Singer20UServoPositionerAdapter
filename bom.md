@@ -1,7 +1,7 @@
 Bill of Materials
 
 | Description                | Qty | Cost, 2025 USD |
-|---------------------------------------------------|
+|----------------------------|-----|----------------|
 | 4mm x 20mm screw           | 1   | $0.89          |
 | 4mm Whiz Nut               | 1   | $0.45          | 
 | brads (aka wire nails)     | 2   | $0.01          |
